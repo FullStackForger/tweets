@@ -2334,7 +2334,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "12196972",
       "id" : 12196972
     }, {
-      "name" : "meemrs 3.1",
+      "name" : "Sgt Thunderfist, MD",
       "screen_name" : "memily",
       "indices" : [ 26, 33 ],
       "id_str" : "5949072",

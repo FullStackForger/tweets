@@ -275,7 +275,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "meemrs 3.1",
+      "name" : "blueberry spicehead ",
       "screen_name" : "memily",
       "indices" : [ 42, 49 ],
       "id_str" : "5949072",
@@ -303,7 +303,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "meemrs 3.1",
+      "name" : "blueberry spicehead ",
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",
@@ -7216,12 +7216,6 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bud\u011Bjovick\u00FD Blanc",
-      "screen_name" : "buddyblanc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "1640531778",
-      "id" : 1640531778
-    }, {
       "name" : "Clem Bastow",
       "screen_name" : "clembastow",
       "indices" : [ 12, 23 ],
@@ -7289,7 +7283,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "meemrs 3.1",
+      "name" : "blueberry spicehead ",
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",
@@ -9698,7 +9692,7 @@ Grailbird.data.tweets_2011_09 =
       "id_str" : "326518931",
       "id" : 326518931
     }, {
-      "name" : "runty grfntt",
+      "name" : "Chris",
       "screen_name" : "ninedorff",
       "indices" : [ 85, 95 ],
       "id_str" : "79601839",
@@ -9718,7 +9712,7 @@ Grailbird.data.tweets_2011_09 =
     }, {
       "name" : "Yolande",
       "screen_name" : "fingsandstuff",
-      "indices" : [ 130, 140 ],
+      "indices" : [ 139, 140 ],
       "id_str" : "66564888",
       "id" : 66564888
     } ],
@@ -9736,7 +9730,7 @@ Grailbird.data.tweets_2011_09 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "runty grfntt",
+        "name" : "Chris",
         "screen_name" : "ninedorff",
         "indices" : [ 67, 77 ],
         "id_str" : "79601839",

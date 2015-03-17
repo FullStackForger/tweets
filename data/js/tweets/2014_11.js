@@ -2390,7 +2390,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "SwiftOnSecurity",
       "protected" : false,
       "id_str" : "2436389418",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/562789568098082818\/w1kNo-OM_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577292188704382976\/qoc_4lnR_normal.jpeg",
       "id" : 2436389418,
       "verified" : false
     }
@@ -3943,7 +3943,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "AshtonRigg",
       "protected" : false,
       "id_str" : "26959095",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/516165030954283010\/nIh8wM7w_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577598482187333632\/9i_RxGQr_normal.jpg",
       "id" : 26959095,
       "verified" : false
     }
@@ -6128,16 +6128,11 @@ Grailbird.data.tweets_2014_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "531596839183601664",
   "geo" : { },
   "id_str" : "531601866304413696",
-  "in_reply_to_user_id" : 183962378,
   "text" : "@EllyOcean haha, puppies + profit (probs minus the cruelty) = perfect!",
   "id" : 531601866304413696,
-  "in_reply_to_status_id" : 531596839183601664,
   "created_at" : "2014-11-10 00:18:56 +0000",
-  "in_reply_to_screen_name" : "EllyOceania",
-  "in_reply_to_user_id_str" : "183962378",
   "user" : {
     "name" : "\u05DF\u0E4F\u0E23\u0452",
     "screen_name" : "phocks",
@@ -6315,7 +6310,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "worstbloke",
       "protected" : false,
       "id_str" : "1644866557",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/568568687028748288\/Y4l81d25_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/574786288114511873\/rsxLFq87_normal.jpeg",
       "id" : 1644866557,
       "verified" : false
     }
@@ -8379,7 +8374,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dame Kittenbottom",
+      "name" : "Ciel Candimere",
       "screen_name" : "KittenFlower",
       "indices" : [ 1, 14 ],
       "id_str" : "40785142",
@@ -8582,7 +8577,13 @@ Grailbird.data.tweets_2014_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Laura",
+      "screen_name" : "impxox",
+      "indices" : [ 0, 7 ],
+      "id_str" : "24652271",
+      "id" : 24652271
+    } ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "winteriscoming",
@@ -8590,11 +8591,16 @@ Grailbird.data.tweets_2014_11 =
     } ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "529229506041896960",
   "geo" : { },
   "id_str" : "529244672279838720",
+  "in_reply_to_user_id" : 24652271,
   "text" : "@impxox it's going to get colder, a LOT colder! #winteriscoming",
   "id" : 529244672279838720,
+  "in_reply_to_status_id" : 529229506041896960,
   "created_at" : "2014-11-03 12:12:17 +0000",
+  "in_reply_to_screen_name" : "impxox",
+  "in_reply_to_user_id_str" : "24652271",
   "user" : {
     "name" : "\u05DF\u0E4F\u0E23\u0452",
     "screen_name" : "phocks",

@@ -4276,7 +4276,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "28301477",
       "id" : 28301477
     }, {
-      "name" : "MissCheyenneKay",
+      "name" : "Chey",
       "screen_name" : "miss_newby",
       "indices" : [ 34, 45 ],
       "id_str" : "977537880",
@@ -5916,12 +5916,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 44, 57 ],
       "id_str" : "22483027",
       "id" : 22483027
-    }, {
-      "name" : "Bud\u011Bjovick\u00FD Blanc",
-      "screen_name" : "buddyblanc",
-      "indices" : [ 58, 69 ],
-      "id_str" : "1640531778",
-      "id" : 1640531778
     }, {
       "name" : "Yolande",
       "screen_name" : "fingsandstuff",

@@ -184,7 +184,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Toby Svensson",
+      "name" : "toby svnssn",
       "screen_name" : "tobiassvn",
       "indices" : [ 0, 10 ],
       "id_str" : "345538951",
@@ -885,7 +885,13 @@ Grailbird.data.tweets_2014_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Laura",
+      "screen_name" : "impxox",
+      "indices" : [ 0, 7 ],
+      "id_str" : "24652271",
+      "id" : 24652271
+    } ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "ghostsex",
@@ -893,11 +899,16 @@ Grailbird.data.tweets_2014_07 =
     } ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "494011748844711938",
   "geo" : { },
   "id_str" : "494015740559646720",
+  "in_reply_to_user_id" : 24652271,
   "text" : "@impxox from your tweets there's no mention of another party partaking in this guy's sex act, so i'm assuming #ghostsex!",
   "id" : 494015740559646720,
+  "in_reply_to_status_id" : 494011748844711938,
   "created_at" : "2014-07-29 07:05:05 +0000",
+  "in_reply_to_screen_name" : "impxox",
+  "in_reply_to_user_id_str" : "24652271",
   "user" : {
     "name" : "\u05DF\u0E4F\u0E23\u0452",
     "screen_name" : "phocks",
@@ -4181,7 +4192,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "c\u03B1\u03C1\u0442\u03B1\u03B9\u03B7 c\u044F\u043A",
+      "name" : "chris \u30C4",
       "screen_name" : "crk5",
       "indices" : [ 0, 5 ],
       "id_str" : "214783050",
@@ -5215,7 +5226,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "c\u03B1\u03C1\u0442\u03B1\u03B9\u03B7 c\u044F\u043A",
+      "name" : "chris \u30C4",
       "screen_name" : "crk5",
       "indices" : [ 0, 5 ],
       "id_str" : "214783050",
@@ -5270,7 +5281,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "lulu litt",
+      "name" : "lulu\/sora",
       "screen_name" : "LuluCalrissian",
       "indices" : [ 3, 18 ],
       "id_str" : "35407832",
@@ -5357,11 +5368,11 @@ Grailbird.data.tweets_2014_07 =
     "id" : 487794809759748097,
     "created_at" : "2014-07-12 03:05:20 +0000",
     "user" : {
-      "name" : "lulu litt",
+      "name" : "lulu\/sora",
       "screen_name" : "LuluCalrissian",
       "protected" : false,
       "id_str" : "35407832",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/567241979331739648\/yIMzFR7C_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/574729829330743296\/6dv5dTt-_normal.jpeg",
       "id" : 35407832,
       "verified" : false
     }
@@ -7619,7 +7630,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ssinnicgm Mail",
+      "name" : "Llama McG ",
       "screen_name" : "gumbuoy",
       "indices" : [ 3, 11 ],
       "id_str" : "145030392",
@@ -7663,7 +7674,7 @@ Grailbird.data.tweets_2014_07 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Ssinnicgm Mail",
+      "name" : "Llama McG ",
       "screen_name" : "gumbuoy",
       "protected" : false,
       "id_str" : "145030392",
@@ -8150,7 +8161,7 @@ Grailbird.data.tweets_2014_07 =
     } ],
     "media" : [ {
       "expanded_url" : "http:\/\/twitter.com\/beyondretrouk\/status\/484275465746927616\/photo\/1",
-      "indices" : [ 139, 140 ],
+      "indices" : [ 125, 140 ],
       "url" : "http:\/\/t.co\/2TvZvTcCU3",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Brh9-CTIIAAF7kT.jpg",
       "id_str" : "484275464664784896",

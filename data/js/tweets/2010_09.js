@@ -3126,6 +3126,57 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Teags",
+      "screen_name" : "teags",
+      "indices" : [ 3, 9 ],
+      "id_str" : "15385676",
+      "id" : 15385676
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "25167614266",
+  "text" : "RT @teags: Sometimes i miss having depression then i realize i probably didnt have it  because doctors will just tell you anything these ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "25167321578",
+    "text" : "Sometimes i miss having depression then i realize i probably didnt have it  because doctors will just tell you anything these days.",
+    "id" : 25167321578,
+    "created_at" : "2010-09-22 00:41:44 +0000",
+    "user" : {
+      "name" : "Teags",
+      "screen_name" : "teags",
+      "protected" : false,
+      "id_str" : "15385676",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/568404252154810370\/gnfNvoxx_normal.jpeg",
+      "id" : 15385676,
+      "verified" : false
+    }
+  },
+  "id" : 25167614266,
+  "created_at" : "2010-09-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\u05DF\u0E4F\u0E23\u0452",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/568678782404288512\/wwe6VrmA_normal.jpeg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Becky",
       "screen_name" : "iHeartPortnoy",
       "indices" : [ 0, 14 ],
@@ -3864,7 +3915,13 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "\u041C\u0430\u043A\u0441\u0438\u043C \u0410\u043A\u043E\u043F\u044F\u043D ",
+      "screen_name" : "bblackkk",
+      "indices" : [ 3, 12 ],
+      "id_str" : "1932962694",
+      "id" : 1932962694
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -9520,7 +9577,13 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "\u041B\u0438\u0445\u0430\u0447\u0451\u0432\r\n \u041A\u0430\u0440\u043B\r\n",
+      "screen_name" : "sarsparillo",
+      "indices" : [ 3, 15 ],
+      "id_str" : "2999638941",
+      "id" : 2999638941
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -9542,11 +9605,11 @@ Grailbird.data.tweets_2010_09 =
     "id" : 22711228653,
     "created_at" : "2010-09-01 14:22:15 +0000",
     "user" : {
-      "name" : "Thomas Whalley",
+      "name" : "whalleyrulz",
       "screen_name" : "whalleyrulz",
       "protected" : false,
       "id_str" : "23409021",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/446286401441509376\/RjLk4flb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/571101054570229760\/TuCYzqcd_normal.jpeg",
       "id" : 23409021,
       "verified" : false
     }

@@ -2784,7 +2784,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "katreeeena",
       "protected" : false,
       "id_str" : "21218422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553759719391649792\/53KSUshE_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/571910521907113984\/e7Gl3CIJ_normal.jpeg",
       "id" : 21218422,
       "verified" : false
     }
@@ -4049,7 +4049,7 @@ Grailbird.data.tweets_2014_09 =
       "id_str" : "1376219534",
       "id" : 1376219534
     }, {
-      "name" : "galonesgens198",
+      "name" : "\u0428\u0438\u043B\u043E\u0432\r\n",
       "screen_name" : "justbernal",
       "indices" : [ 17, 28 ],
       "id_str" : "2982532143",
@@ -4678,7 +4678,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dame Kittenbottom",
+      "name" : "Ciel Candimere",
       "screen_name" : "KittenFlower",
       "indices" : [ 1, 14 ],
       "id_str" : "40785142",
@@ -4717,7 +4717,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dame Kittenbottom",
+      "name" : "Ciel Candimere",
       "screen_name" : "KittenFlower",
       "indices" : [ 3, 16 ],
       "id_str" : "40785142",
@@ -4819,7 +4819,7 @@ Grailbird.data.tweets_2014_09 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Dame Kittenbottom",
+      "name" : "Ciel Candimere",
       "screen_name" : "KittenFlower",
       "protected" : false,
       "id_str" : "40785142",
@@ -4853,16 +4853,11 @@ Grailbird.data.tweets_2014_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "511773377279717376",
   "geo" : { },
   "id_str" : "511775485601128448",
-  "in_reply_to_user_id" : 183962378,
   "text" : "@EllyOcean damn you elly, always one step ahead!",
   "id" : 511775485601128448,
-  "in_reply_to_status_id" : 511773377279717376,
   "created_at" : "2014-09-16 07:15:58 +0000",
-  "in_reply_to_screen_name" : "EllyOceania",
-  "in_reply_to_user_id_str" : "183962378",
   "user" : {
     "name" : "\u05DF\u0E4F\u0E23\u0452",
     "screen_name" : "phocks",
@@ -4995,68 +4990,6 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u05DF\u0E4F\u0E23\u0452",
-      "screen_name" : "phocks",
-      "indices" : [ 15, 22 ],
-      "id_str" : "5703342",
-      "id" : 5703342
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "511756277584646145",
-  "text" : "RT @EllyOcean: @phocks I fought the system and won",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "\u05DF\u0E4F\u0E23\u0452",
-        "screen_name" : "phocks",
-        "indices" : [ 0, 7 ],
-        "id_str" : "5703342",
-        "id" : 5703342
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "511754872396324864",
-    "geo" : { },
-    "id_str" : "511755634123866112",
-    "in_reply_to_user_id" : 5703342,
-    "text" : "@phocks I fought the system and won",
-    "id" : 511755634123866112,
-    "in_reply_to_status_id" : 511754872396324864,
-    "created_at" : "2014-09-16 05:57:05 +0000",
-    "in_reply_to_screen_name" : "phocks",
-    "in_reply_to_user_id_str" : "5703342",
-    "user" : {
-      "name" : "elly",
-      "screen_name" : "EllyOceania",
-      "protected" : false,
-      "id_str" : "183962378",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/562054893846806528\/OTIPnG___normal.jpeg",
-      "id" : 183962378,
-      "verified" : false
-    }
-  },
-  "id" : 511756277584646145,
-  "created_at" : "2014-09-16 05:59:39 +0000",
-  "user" : {
-    "name" : "\u05DF\u0E4F\u0E23\u0452",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/568678782404288512\/wwe6VrmA_normal.jpeg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "elle",
       "screen_name" : "ellyocean",
       "indices" : [ 0, 10 ],
@@ -5067,16 +5000,11 @@ Grailbird.data.tweets_2014_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "511754111272747008",
   "geo" : { },
   "id_str" : "511754872396324864",
-  "in_reply_to_user_id" : 183962378,
   "text" : "@EllyOcean hmm well that could possibly account for my -13 following count, disabled accounts, as it appears i'm still following you..",
   "id" : 511754872396324864,
-  "in_reply_to_status_id" : 511754111272747008,
   "created_at" : "2014-09-16 05:54:04 +0000",
-  "in_reply_to_screen_name" : "EllyOceania",
-  "in_reply_to_user_id_str" : "183962378",
   "user" : {
     "name" : "\u05DF\u0E4F\u0E23\u0452",
     "screen_name" : "phocks",
@@ -8445,7 +8373,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dame Kittenbottom",
+      "name" : "Ciel Candimere",
       "screen_name" : "KittenFlower",
       "indices" : [ 0, 13 ],
       "id_str" : "40785142",
@@ -8776,7 +8704,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Katsu Moon Memento",
+      "name" : "Katsu Kutiepie",
       "screen_name" : "TeddyLandy",
       "indices" : [ 3, 14 ],
       "id_str" : "299646877",
@@ -8820,7 +8748,7 @@ Grailbird.data.tweets_2014_09 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Katsu Moon Memento",
+      "name" : "Katsu Cryptic Coptic",
       "screen_name" : "TeddyLandy",
       "protected" : false,
       "id_str" : "299646877",
@@ -9727,7 +9655,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "daisyhearted",
       "protected" : false,
       "id_str" : "15955237",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540102080640196608\/-qZcsOYy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/572233685849649153\/CbnYVttA_normal.jpeg",
       "id" : 15955237,
       "verified" : false
     }

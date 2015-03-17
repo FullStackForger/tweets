@@ -664,7 +664,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Cranson Flappycakes",
+      "name" : "Truthy Bumblecrock",
       "screen_name" : "gilfer",
       "indices" : [ 0, 7 ],
       "id_str" : "6024412",
@@ -1553,13 +1553,7 @@ Grailbird.data.tweets_2011_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Bud\u011Bjovick\u00FD Blanc",
-      "screen_name" : "buddyblanc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "1640531778",
-      "id" : 1640531778
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3210,7 +3204,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "meemrs 3.1",
+      "name" : "blueberry spicehead ",
       "screen_name" : "memily",
       "indices" : [ 3, 10 ],
       "id_str" : "5949072",
@@ -3237,7 +3231,7 @@ Grailbird.data.tweets_2011_08 =
     "id" : 106270171152400384,
     "created_at" : "2011-08-24 07:42:37 +0000",
     "user" : {
-      "name" : "meemrs 3.1",
+      "name" : "blueberry spicehead ",
       "screen_name" : "memily",
       "protected" : false,
       "id_str" : "5949072",
@@ -3739,16 +3733,27 @@ Grailbird.data.tweets_2011_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Laura",
+      "screen_name" : "impxox",
+      "indices" : [ 0, 7 ],
+      "id_str" : "24652271",
+      "id" : 24652271
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "105753964460523522",
   "geo" : { },
   "id_str" : "105759174914355201",
+  "in_reply_to_user_id" : 24652271,
   "text" : "@impxox nooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo! :)",
   "id" : 105759174914355201,
+  "in_reply_to_status_id" : 105753964460523522,
   "created_at" : "2011-08-22 21:52:06 +0000",
+  "in_reply_to_screen_name" : "impxox",
+  "in_reply_to_user_id_str" : "24652271",
   "user" : {
     "name" : "\u05DF\u0E4F\u0E23\u0452",
     "screen_name" : "phocks",
@@ -4102,7 +4107,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MissCheyenneKay",
+      "name" : "Chey",
       "screen_name" : "miss_newby",
       "indices" : [ 0, 11 ],
       "id_str" : "977537880",
@@ -4954,7 +4959,7 @@ Grailbird.data.tweets_2011_08 =
     "user_mentions" : [ {
       "name" : "\u05DF\u0E4F\u0E23\u0452",
       "screen_name" : "phocks",
-      "indices" : [ 96, 97 ],
+      "indices" : [ 19, 26 ],
       "id_str" : "5703342",
       "id" : 5703342
     } ],

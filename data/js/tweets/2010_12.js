@@ -475,7 +475,13 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Ash",
+      "screen_name" : "goashley",
+      "indices" : [ 3, 12 ],
+      "id_str" : "800913140",
+      "id" : 800913140
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1461,7 +1467,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nick - Voted 1 Green",
+      "name" : "DANKEY KANG",
       "screen_name" : "Nicholosophy",
       "indices" : [ 0, 13 ],
       "id_str" : "14721310",
@@ -4711,7 +4717,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "definatalie",
       "protected" : false,
       "id_str" : "11791522",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/521433774366552066\/iIue2EbX_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/572314631268364288\/GUaSX8Fc_normal.jpeg",
       "id" : 11791522,
       "verified" : false
     }
@@ -5334,57 +5340,6 @@ Grailbird.data.tweets_2010_12 =
   "text" : "night",
   "id" : 15056686901370880,
   "created_at" : "2010-12-15 14:52:48 +0000",
-  "user" : {
-    "name" : "\u05DF\u0E4F\u0E23\u0452",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/568678782404288512\/wwe6VrmA_normal.jpeg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Social Anxiety Heal",
-      "screen_name" : "NoSocialAnxiety",
-      "indices" : [ 3, 19 ],
-      "id_str" : "37925506",
-      "id" : 37925506
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15054842909171712",
-  "text" : "RT @NoSocialAnxiety: 'All resentment about being told what to do is gone.'",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.socialoomph.com\" rel=\"nofollow\"\u003ESocialOomph\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "15052589804556288",
-    "text" : "'All resentment about being told what to do is gone.'",
-    "id" : 15052589804556288,
-    "created_at" : "2010-12-15 14:36:31 +0000",
-    "user" : {
-      "name" : "Social Anxiety Heal",
-      "screen_name" : "NoSocialAnxiety",
-      "protected" : false,
-      "id_str" : "37925506",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/568353391424724992\/r0QsaG5c_normal.jpeg",
-      "id" : 37925506,
-      "verified" : false
-    }
-  },
-  "id" : 15054842909171712,
-  "created_at" : "2010-12-15 14:45:28 +0000",
   "user" : {
     "name" : "\u05DF\u0E4F\u0E23\u0452",
     "screen_name" : "phocks",
@@ -8271,7 +8226,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emma. Just Emma. ",
+      "name" : "Emmsy ",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",
@@ -10271,7 +10226,13 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Catherine Z",
+      "screen_name" : "CatherineZahrah",
+      "indices" : [ 3, 19 ],
+      "id_str" : "2175799052",
+      "id" : 2175799052
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

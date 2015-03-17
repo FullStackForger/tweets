@@ -2349,6 +2349,12 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "You don't know me",
+      "screen_name" : "zymymar",
+      "indices" : [ 0, 8 ],
+      "id_str" : "3066202152",
+      "id" : 3066202152
+    }, {
       "name" : "BAT-HAN ",
       "screen_name" : "marchofclouds",
       "indices" : [ 9, 23 ],
@@ -2799,134 +2805,6 @@ Grailbird.data.tweets_2013_05 =
   "text" : "only now we realise the full extent of 10 shots of tequila in relation to the goodbye of chester",
   "id" : 333291027324608512,
   "created_at" : "2013-05-11 18:42:27 +0000",
-  "user" : {
-    "name" : "\u05DF\u0E4F\u0E23\u0452",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/568678782404288512\/wwe6VrmA_normal.jpeg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "brock moore",
-      "screen_name" : "brockkmoore",
-      "indices" : [ 3, 15 ],
-      "id_str" : "368190278",
-      "id" : 368190278
-    }, {
-      "name" : "\u05DF\u0E4F\u0E23\u0452",
-      "screen_name" : "phocks",
-      "indices" : [ 17, 24 ],
-      "id_str" : "5703342",
-      "id" : 5703342
-    } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/brockkmoore\/status\/333204126836088833\/photo\/1",
-      "indices" : [ 51, 73 ],
-      "url" : "http:\/\/t.co\/0kwvGHp29I",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BJ_HY1ICYAIpHDU.jpg",
-      "id_str" : "333204126840283138",
-      "id" : 333204126840283138,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BJ_HY1ICYAIpHDU.jpg",
-      "sizes" : [ {
-        "h" : 453,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 1024,
-        "resize" : "fit",
-        "w" : 768
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 800,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 1024,
-        "resize" : "fit",
-        "w" : 768
-      } ],
-      "display_url" : "pic.twitter.com\/0kwvGHp29I"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "333212290730041346",
-  "text" : "RT @brockkmoore: @phocks hahaha my brothers friend http:\/\/t.co\/0kwvGHp29I",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "\u05DF\u0E4F\u0E23\u0452",
-        "screen_name" : "phocks",
-        "indices" : [ 0, 7 ],
-        "id_str" : "5703342",
-        "id" : 5703342
-      } ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/brockkmoore\/status\/333204126836088833\/photo\/1",
-        "indices" : [ 34, 56 ],
-        "url" : "http:\/\/t.co\/0kwvGHp29I",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BJ_HY1ICYAIpHDU.jpg",
-        "id_str" : "333204126840283138",
-        "id" : 333204126840283138,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BJ_HY1ICYAIpHDU.jpg",
-        "sizes" : [ {
-          "h" : 453,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 1024,
-          "resize" : "fit",
-          "w" : 768
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 800,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 1024,
-          "resize" : "fit",
-          "w" : 768
-        } ],
-        "display_url" : "pic.twitter.com\/0kwvGHp29I"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "333201230312656897",
-    "geo" : { },
-    "id_str" : "333204126836088833",
-    "in_reply_to_user_id" : 5703342,
-    "text" : "@phocks hahaha my brothers friend http:\/\/t.co\/0kwvGHp29I",
-    "id" : 333204126836088833,
-    "in_reply_to_status_id" : 333201230312656897,
-    "created_at" : "2013-05-11 12:57:09 +0000",
-    "in_reply_to_screen_name" : "phocks",
-    "in_reply_to_user_id_str" : "5703342",
-    "user" : {
-      "name" : "brock moore",
-      "screen_name" : "brockkmoore",
-      "protected" : false,
-      "id_str" : "368190278",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/424846009974272000\/0LHj5_X2_normal.jpeg",
-      "id" : 368190278,
-      "verified" : false
-    }
-  },
-  "id" : 333212290730041346,
-  "created_at" : "2013-05-11 13:29:35 +0000",
   "user" : {
     "name" : "\u05DF\u0E4F\u0E23\u0452",
     "screen_name" : "phocks",

@@ -2546,7 +2546,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Story of Scott",
+      "name" : "Scott",
       "screen_name" : "scottsues",
       "indices" : [ 46, 56 ],
       "id_str" : "35589929",
@@ -6359,7 +6359,13 @@ Grailbird.data.tweets_2010_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "melbgirl",
+      "screen_name" : "melbgirl",
+      "indices" : [ 3, 12 ],
+      "id_str" : "2395734708",
+      "id" : 2395734708
+    } ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "melbourne",
@@ -7064,16 +7070,27 @@ Grailbird.data.tweets_2010_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Laura",
+      "screen_name" : "impxox",
+      "indices" : [ 0, 7 ],
+      "id_str" : "24652271",
+      "id" : 24652271
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "20535480648",
   "geo" : { },
   "id_str" : "20537602606",
+  "in_reply_to_user_id" : 24652271,
   "text" : "@impxox computer consultancy. apparently the one i had at home wasn't adequate enough :) lucky for me",
   "id" : 20537602606,
+  "in_reply_to_status_id" : 20535480648,
   "created_at" : "2010-08-07 00:00:00 +0000",
+  "in_reply_to_screen_name" : "impxox",
+  "in_reply_to_user_id_str" : "24652271",
   "user" : {
     "name" : "\u05DF\u0E4F\u0E23\u0452",
     "screen_name" : "phocks",
@@ -7108,7 +7125,13 @@ Grailbird.data.tweets_2010_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Lil Colbs",
+      "screen_name" : "Cswizzle_",
+      "indices" : [ 3, 13 ],
+      "id_str" : "1029560072",
+      "id" : 1029560072
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -7134,7 +7157,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "chelseymayg",
       "protected" : false,
       "id_str" : "118619145",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/567613533047644160\/24L8Cvc6_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/576163932764700672\/2HkIfBKb_normal.jpeg",
       "id" : 118619145,
       "verified" : false
     }
@@ -7509,7 +7532,13 @@ Grailbird.data.tweets_2010_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "N",
+      "screen_name" : "ilovefunnyshoes",
+      "indices" : [ 85, 101 ],
+      "id_str" : "2472236059",
+      "id" : 2472236059
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

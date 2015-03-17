@@ -791,7 +791,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "flowershoes",
       "protected" : false,
       "id_str" : "20673300",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513469401044353024\/TCaFfy6Y_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/570372425884250112\/4rbo1W-l_normal.jpeg",
       "id" : 20673300,
       "verified" : false
     }
@@ -1174,7 +1174,13 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "\u041C\u0430\u043A\u0441\u0438\u043C \u0410\u043A\u043E\u043F\u044F\u043D ",
+      "screen_name" : "bblackkk",
+      "indices" : [ 3, 12 ],
+      "id_str" : "1932962694",
+      "id" : 1932962694
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1269,7 +1275,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Cranson Flappycakes",
+      "name" : "Truthy Bumblecrock",
       "screen_name" : "gilfer",
       "indices" : [ 26, 33 ],
       "id_str" : "6024412",
@@ -3446,7 +3452,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MissCheyenneKay",
+      "name" : "Chey",
       "screen_name" : "miss_newby",
       "indices" : [ 0, 11 ],
       "id_str" : "977537880",
@@ -4627,7 +4633,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MissCheyenneKay",
+      "name" : "Chey",
       "screen_name" : "miss_newby",
       "indices" : [ 0, 11 ],
       "id_str" : "977537880",
@@ -4889,7 +4895,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "c\u03B1\u03C1\u0442\u03B1\u03B9\u03B7 c\u044F\u043A",
+      "name" : "chris \u30C4",
       "screen_name" : "crk5",
       "indices" : [ 0, 5 ],
       "id_str" : "214783050",
@@ -4978,12 +4984,6 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bud\u011Bjovick\u00FD Blanc",
-      "screen_name" : "buddyblanc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "1640531778",
-      "id" : 1640531778
-    }, {
       "name" : "Laura Kirkham",
       "screen_name" : "laurakirkham",
       "indices" : [ 81, 94 ],
@@ -6021,7 +6021,7 @@ Grailbird.data.tweets_2011_07 =
     "user_mentions" : [ {
       "name" : "\u05DF\u0E4F\u0E23\u0452",
       "screen_name" : "phocks",
-      "indices" : [ 130, 131 ],
+      "indices" : [ 34, 41 ],
       "id_str" : "5703342",
       "id" : 5703342
     } ],
@@ -7073,99 +7073,6 @@ Grailbird.data.tweets_2011_07 =
   "created_at" : "2011-07-07 22:13:42 +0000",
   "in_reply_to_screen_name" : "KatyDidSays",
   "in_reply_to_user_id_str" : "14218598",
-  "user" : {
-    "name" : "\u05DF\u0E4F\u0E23\u0452",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/568678782404288512\/wwe6VrmA_normal.jpeg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u05DF\u0E4F\u0E23\u0452",
-      "screen_name" : "phocks",
-      "indices" : [ 48, 55 ],
-      "id_str" : "5703342",
-      "id" : 5703342
-    }, {
-      "name" : "Andrew McCluskey",
-      "screen_name" : "ajmacca",
-      "indices" : [ 56, 64 ],
-      "id_str" : "18926366",
-      "id" : 18926366
-    }, {
-      "name" : "Glen Maddern",
-      "screen_name" : "glenmaddern",
-      "indices" : [ 81, 93 ],
-      "id_str" : "16664291",
-      "id" : 16664291
-    }, {
-      "name" : "Neil Patrick Harris",
-      "screen_name" : "ActuallyNPH",
-      "indices" : [ 98, 110 ],
-      "id_str" : "90420314",
-      "id" : 90420314
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "89094465381351425",
-  "text" : "RT @ccake: Had a dream about a seeing a musical @phocks @ajmacca @doyleisarobutt @glenmaddern and @ActuallyNPH all starred in. There was ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "\u05DF\u0E4F\u0E23\u0452",
-        "screen_name" : "phocks",
-        "indices" : [ 37, 44 ],
-        "id_str" : "5703342",
-        "id" : 5703342
-      }, {
-        "name" : "Andrew McCluskey",
-        "screen_name" : "ajmacca",
-        "indices" : [ 45, 53 ],
-        "id_str" : "18926366",
-        "id" : 18926366
-      }, {
-        "name" : "Glen Maddern",
-        "screen_name" : "glenmaddern",
-        "indices" : [ 70, 82 ],
-        "id_str" : "16664291",
-        "id" : 16664291
-      }, {
-        "name" : "Neil Patrick Harris",
-        "screen_name" : "ActuallyNPH",
-        "indices" : [ 87, 99 ],
-        "id_str" : "90420314",
-        "id" : 90420314
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "89080817539747840",
-    "text" : "Had a dream about a seeing a musical @phocks @ajmacca @doyleisarobutt @glenmaddern and @ActuallyNPH all starred in. There was a huge chorus",
-    "id" : 89080817539747840,
-    "created_at" : "2011-07-07 21:18:16 +0000",
-    "user" : {
-      "name" : "Cackle Hag",
-      "screen_name" : "cackle_hag",
-      "protected" : false,
-      "id_str" : "8546182",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/548331046731669504\/NZyi1Rlp_normal.jpeg",
-      "id" : 8546182,
-      "verified" : false
-    }
-  },
-  "id" : 89094465381351425,
-  "created_at" : "2011-07-07 22:12:30 +0000",
   "user" : {
     "name" : "\u05DF\u0E4F\u0E23\u0452",
     "screen_name" : "phocks",
