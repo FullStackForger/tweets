@@ -2573,7 +2573,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "moshpitson",
       "protected" : false,
       "id_str" : "166475082",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/554262183366766592\/soADVTRf_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/575397928015024128\/i-AGgzBD_normal.jpeg",
       "id" : 166475082,
       "verified" : false
     }
@@ -3424,16 +3424,27 @@ Grailbird.data.tweets_2014_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Laura",
+      "screen_name" : "impxox",
+      "indices" : [ 0, 7 ],
+      "id_str" : "24652271",
+      "id" : 24652271
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "502420311296712704",
   "geo" : { },
   "id_str" : "502420488744747008",
+  "in_reply_to_user_id" : 24652271,
   "text" : "@impxox thanks darlin' hope ur having fun in the northern hemisphere!",
   "id" : 502420488744747008,
+  "in_reply_to_status_id" : 502420311296712704,
   "created_at" : "2014-08-21 11:42:33 +0000",
+  "in_reply_to_screen_name" : "impxox",
+  "in_reply_to_user_id_str" : "24652271",
   "user" : {
     "name" : "\u05DF\u0E4F\u0E23\u0452",
     "screen_name" : "phocks",
@@ -4901,7 +4912,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Toby Svensson",
+      "name" : "toby svnssn",
       "screen_name" : "tobiassvn",
       "indices" : [ 0, 10 ],
       "id_str" : "345538951",
@@ -4934,7 +4945,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Toby Svensson",
+      "name" : "toby svnssn",
       "screen_name" : "tobiassvn",
       "indices" : [ 0, 10 ],
       "id_str" : "345538951",
@@ -7926,7 +7937,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dame Kittenbottom",
+      "name" : "Ciel Candimere",
       "screen_name" : "KittenFlower",
       "indices" : [ 3, 16 ],
       "id_str" : "40785142",
@@ -7970,7 +7981,7 @@ Grailbird.data.tweets_2014_08 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Dame Kittenbottom",
+      "name" : "Ciel Candimere",
       "screen_name" : "KittenFlower",
       "protected" : false,
       "id_str" : "40785142",

@@ -3462,7 +3462,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "c\u03B1\u03C1\u0442\u03B1\u03B9\u03B7 c\u044F\u043A",
+      "name" : "chris \u30C4",
       "screen_name" : "crk5",
       "indices" : [ 3, 8 ],
       "id_str" : "214783050",
@@ -3506,7 +3506,7 @@ Grailbird.data.tweets_2012_07 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "c\u03B1\u03C1\u0442\u03B1\u03B9\u03B7 c\u044F\u043A",
+      "name" : "chris \u30C4",
       "screen_name" : "crk5",
       "protected" : false,
       "id_str" : "214783050",
@@ -4751,13 +4751,7 @@ Grailbird.data.tweets_2012_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Bud\u011Bjovick\u00FD Blanc",
-      "screen_name" : "buddyblanc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "1640531778",
-      "id" : 1640531778
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

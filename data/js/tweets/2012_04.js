@@ -1217,7 +1217,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mel",
+      "name" : "Tooky Clothespin",
       "screen_name" : "superhotmel",
       "indices" : [ 0, 12 ],
       "id_str" : "18152992",

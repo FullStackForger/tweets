@@ -2594,7 +2594,13 @@ Grailbird.data.tweets_2012_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "You don't know me",
+      "screen_name" : "zymymar",
+      "indices" : [ 0, 8 ],
+      "id_str" : "3066202152",
+      "id" : 3066202152
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

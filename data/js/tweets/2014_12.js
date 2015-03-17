@@ -437,7 +437,7 @@ Grailbird.data.tweets_2014_12 =
       "id_str" : "998320280",
       "id" : 998320280
     }, {
-      "name" : "Katsu Moon Memento",
+      "name" : "Katsu Cryptic Coptic",
       "screen_name" : "TeddyLandy",
       "indices" : [ 36, 47 ],
       "id_str" : "299646877",
@@ -466,7 +466,7 @@ Grailbird.data.tweets_2014_12 =
         "id_str" : "998320280",
         "id" : 998320280
       }, {
-        "name" : "Katsu Moon Memento",
+        "name" : "Katsu Cryptic Coptic",
         "screen_name" : "TeddyLandy",
         "indices" : [ 17, 28 ],
         "id_str" : "299646877",
@@ -523,7 +523,7 @@ Grailbird.data.tweets_2014_12 =
       "id_str" : "359846371",
       "id" : 359846371
     }, {
-      "name" : "Katsu Moon Memento",
+      "name" : "Katsu Kutiepie",
       "screen_name" : "TeddyLandy",
       "indices" : [ 102, 113 ],
       "id_str" : "299646877",
@@ -578,13 +578,7 @@ Grailbird.data.tweets_2014_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Moviesandmusic",
-      "screen_name" : "moviesandmusic1",
-      "indices" : [ 0, 16 ],
-      "id_str" : "1031560004",
-      "id" : 1031560004
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -597,7 +591,7 @@ Grailbird.data.tweets_2014_12 =
   "id" : 549728890378125312,
   "in_reply_to_status_id" : 549472351008473089,
   "created_at" : "2014-12-30 00:49:15 +0000",
-  "in_reply_to_screen_name" : "moviesandmusic1",
+  "in_reply_to_screen_name" : "musicandmovies7",
   "in_reply_to_user_id_str" : "1031560004",
   "user" : {
     "name" : "\u05DF\u0E4F\u0E23\u0452",
@@ -817,13 +811,7 @@ Grailbird.data.tweets_2014_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Moviesandmusic",
-      "screen_name" : "moviesandmusic1",
-      "indices" : [ 0, 16 ],
-      "id_str" : "1031560004",
-      "id" : 1031560004
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -836,7 +824,7 @@ Grailbird.data.tweets_2014_12 =
   "id" : 549468307561000961,
   "in_reply_to_status_id" : 549162708268883968,
   "created_at" : "2014-12-29 07:33:47 +0000",
-  "in_reply_to_screen_name" : "moviesandmusic1",
+  "in_reply_to_screen_name" : "musicandmovies7",
   "in_reply_to_user_id_str" : "1031560004",
   "user" : {
     "name" : "\u05DF\u0E4F\u0E23\u0452",
@@ -1369,7 +1357,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Milly ",
+      "name" : "Emilia",
       "screen_name" : "EmiliaMontague",
       "indices" : [ 0, 15 ],
       "id_str" : "380179637",
@@ -1700,7 +1688,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Milly ",
+      "name" : "e m i l i a",
       "screen_name" : "EmiliaMontague",
       "indices" : [ 0, 15 ],
       "id_str" : "380179637",
@@ -1818,7 +1806,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dame Kittenbottom",
+      "name" : "Ciel Candimere",
       "screen_name" : "KittenFlower",
       "indices" : [ 12, 25 ],
       "id_str" : "40785142",
@@ -2274,7 +2262,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Katsu Moon Memento",
+      "name" : "Katsu Cryptic Coptic",
       "screen_name" : "TeddyLandy",
       "indices" : [ 1, 12 ],
       "id_str" : "299646877",

@@ -722,7 +722,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MissCheyenneKay",
+      "name" : "Chey",
       "screen_name" : "miss_newby",
       "indices" : [ 0, 11 ],
       "id_str" : "977537880",
@@ -1500,7 +1500,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 19662533935,
     "created_at" : "2010-07-27 14:52:41 +0000",
     "user" : {
-      "name" : "Nico",
+      "name" : "Nico Dice",
       "screen_name" : "daimonic0",
       "protected" : false,
       "id_str" : "18538664",
@@ -4425,7 +4425,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "17018153",
       "id" : 17018153
     }, {
-      "name" : "Emma. Just Emma. ",
+      "name" : "Emmsy ",
       "screen_name" : "emmsyish",
       "indices" : [ 102, 111 ],
       "id_str" : "16217140",

@@ -2,30 +2,19 @@ Grailbird.data.tweets_2012_08 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "A. Rousing",
-      "screen_name" : "madebymaree",
-      "indices" : [ 0, 12 ],
-      "id_str" : "20020778",
-      "id" : 20020778
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "241431851942699008",
   "geo" : {
     "type" : "Point",
     "coordinates" : [ -27.45511609, 153.03590259 ]
   },
   "id_str" : "241461246065512448",
-  "in_reply_to_user_id" : 20020778,
   "text" : "@madebymaree or bulk quantities!",
   "id" : 241461246065512448,
-  "in_reply_to_status_id" : 241431851942699008,
   "created_at" : "2012-08-31 09:03:41 +0000",
-  "in_reply_to_screen_name" : "madebymaree",
-  "in_reply_to_user_id_str" : "20020778",
   "user" : {
     "name" : "\u05DF\u0E4F\u0E23\u0452",
     "screen_name" : "phocks",
@@ -1484,7 +1473,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jurl Durvlun",
+      "name" : "BudgieButts",
       "screen_name" : "darxtorm",
       "indices" : [ 0, 9 ],
       "id_str" : "169038548",
@@ -2959,7 +2948,7 @@ Grailbird.data.tweets_2012_08 =
       "id_str" : "117199326",
       "id" : 117199326
     }, {
-      "name" : "Dame Kittenbottom",
+      "name" : "Ciel Candimere",
       "screen_name" : "KittenFlower",
       "indices" : [ 26, 39 ],
       "id_str" : "40785142",

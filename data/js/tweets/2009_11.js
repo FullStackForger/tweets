@@ -2461,7 +2461,7 @@ Grailbird.data.tweets_2009_11 =
       "screen_name" : "definatalie",
       "protected" : false,
       "id_str" : "11791522",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/521433774366552066\/iIue2EbX_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/572314631268364288\/GUaSX8Fc_normal.jpeg",
       "id" : 11791522,
       "verified" : false
     }

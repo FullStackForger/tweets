@@ -8663,19 +8663,30 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Laura",
+      "screen_name" : "impxox",
+      "indices" : [ 0, 7 ],
+      "id_str" : "24652271",
+      "id" : 24652271
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "26293522528",
   "geo" : {
     "type" : "Point",
     "coordinates" : [ -37.7871885, 144.9934966 ]
   },
   "id_str" : "26304123133",
+  "in_reply_to_user_id" : 24652271,
   "text" : "@impxox congratulations! hot up there in cairns. what's the job?",
   "id" : 26304123133,
+  "in_reply_to_status_id" : 26293522528,
   "created_at" : "2010-10-03 00:00:00 +0000",
+  "in_reply_to_screen_name" : "impxox",
+  "in_reply_to_user_id_str" : "24652271",
   "user" : {
     "name" : "\u05DF\u0E4F\u0E23\u0452",
     "screen_name" : "phocks",
@@ -8743,7 +8754,7 @@ Grailbird.data.tweets_2010_10 =
     "user" : {
       "name" : "CERNERG FERER",
       "screen_name" : "carnagefairy",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "14211650",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538215828026454016\/SO_UzNyh_normal.jpeg",
       "id" : 14211650,

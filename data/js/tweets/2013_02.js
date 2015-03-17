@@ -3266,7 +3266,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Cranson Flappycakes",
+      "name" : "Truthy Bumblecrock",
       "screen_name" : "gilfer",
       "indices" : [ 1, 8 ],
       "id_str" : "6024412",

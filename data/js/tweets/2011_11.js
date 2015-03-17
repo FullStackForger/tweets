@@ -880,7 +880,7 @@ Grailbird.data.tweets_2011_11 =
       "id_str" : "254846221",
       "id" : 254846221
     }, {
-      "name" : "meemrs 3.1",
+      "name" : "blueberry spicehead ",
       "screen_name" : "memily",
       "indices" : [ 63, 70 ],
       "id_str" : "5949072",
@@ -1262,7 +1262,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "c\u03B1\u03C1\u0442\u03B1\u03B9\u03B7 c\u044F\u043A",
+      "name" : "chris \u30C4",
       "screen_name" : "crk5",
       "indices" : [ 0, 5 ],
       "id_str" : "214783050",
@@ -1444,7 +1444,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "meemrs 3.1",
+      "name" : "blueberry spicehead ",
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",
@@ -1505,7 +1505,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "meemrs 3.1",
+      "name" : "blueberry spicehead ",
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",
@@ -6334,7 +6334,7 @@ Grailbird.data.tweets_2011_11 =
     "user_mentions" : [ {
       "name" : "\u05DF\u0E4F\u0E23\u0452",
       "screen_name" : "phocks",
-      "indices" : [ 32, 33 ],
+      "indices" : [ 19, 26 ],
       "id_str" : "5703342",
       "id" : 5703342
     } ],
@@ -7560,7 +7560,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "c\u03B1\u03C1\u0442\u03B1\u03B9\u03B7 c\u044F\u043A",
+      "name" : "chris \u30C4",
       "screen_name" : "crk5",
       "indices" : [ 0, 5 ],
       "id_str" : "214783050",

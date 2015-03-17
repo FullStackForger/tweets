@@ -5136,7 +5136,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "145138705",
       "id" : 145138705
     }, {
-      "name" : "Brad ",
+      "name" : "Havelock Vetinari ",
       "screen_name" : "ThePatrician",
       "indices" : [ 26, 39 ],
       "id_str" : "23424239",

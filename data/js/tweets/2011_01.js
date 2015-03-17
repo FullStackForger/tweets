@@ -141,7 +141,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mel",
+      "name" : "Tooky Clothespin",
       "screen_name" : "superhotmel",
       "indices" : [ 3, 15 ],
       "id_str" : "18152992",
@@ -168,7 +168,7 @@ Grailbird.data.tweets_2011_01 =
     "id" : 31696651835940865,
     "created_at" : "2011-01-30 12:54:05 +0000",
     "user" : {
-      "name" : "mel",
+      "name" : "Tooky Clothespin",
       "screen_name" : "superhotmel",
       "protected" : false,
       "id_str" : "18152992",
@@ -918,6 +918,12 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Laura",
+      "screen_name" : "impxox",
+      "indices" : [ 0, 7 ],
+      "id_str" : "24652271",
+      "id" : 24652271
+    }, {
       "name" : "Yolande",
       "screen_name" : "fingsandstuff",
       "indices" : [ 13, 27 ],
@@ -928,11 +934,16 @@ Grailbird.data.tweets_2011_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "31018085657874432",
   "geo" : { },
   "id_str" : "31023721921642496",
+  "in_reply_to_user_id" : 24652271,
   "text" : "@impxox tell @fingsandstuff to come home! she is missed by me and the kitten :)",
   "id" : 31023721921642496,
+  "in_reply_to_status_id" : 31018085657874432,
   "created_at" : "2011-01-28 16:20:06 +0000",
+  "in_reply_to_screen_name" : "impxox",
+  "in_reply_to_user_id_str" : "24652271",
   "user" : {
     "name" : "\u05DF\u0E4F\u0E23\u0452",
     "screen_name" : "phocks",
@@ -945,7 +956,13 @@ Grailbird.data.tweets_2011_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Mark Gonzales \u007BMGis\u007D",
+      "screen_name" : "markgonzalesIS",
+      "indices" : [ 3, 18 ],
+      "id_str" : "201058282",
+      "id" : 201058282
+    } ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "Egypt",
@@ -2469,69 +2486,6 @@ Grailbird.data.tweets_2011_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dale. ",
-      "screen_name" : "dfbiz",
-      "indices" : [ 3, 9 ],
-      "id_str" : "17498817",
-      "id" : 17498817
-    }, {
-      "name" : "\u05DF\u0E4F\u0E23\u0452",
-      "screen_name" : "phocks",
-      "indices" : [ 39, 46 ],
-      "id_str" : "5703342",
-      "id" : 5703342
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "29812009201573888",
-  "text" : "RT @dfbiz: Apparently I'm \"similar\" to @phocks. Cool kids, ACTIVATE!",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "\u05DF\u0E4F\u0E23\u0452",
-        "screen_name" : "phocks",
-        "indices" : [ 28, 35 ],
-        "id_str" : "5703342",
-        "id" : 5703342
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "29805736313757696",
-    "text" : "Apparently I'm \"similar\" to @phocks. Cool kids, ACTIVATE!",
-    "id" : 29805736313757696,
-    "created_at" : "2011-01-25 07:40:15 +0000",
-    "user" : {
-      "name" : "Dale. ",
-      "screen_name" : "dfbiz",
-      "protected" : false,
-      "id_str" : "17498817",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/555587932656898048\/kd-7EtW5_normal.jpeg",
-      "id" : 17498817,
-      "verified" : false
-    }
-  },
-  "id" : 29812009201573888,
-  "created_at" : "2011-01-25 08:05:11 +0000",
-  "user" : {
-    "name" : "\u05DF\u0E4F\u0E23\u0452",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/568678782404288512\/wwe6VrmA_normal.jpeg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -3821,8 +3775,8 @@ Grailbird.data.tweets_2011_01 =
       "name" : "Chris O'Regan",
       "screen_name" : "monkeytypist",
       "indices" : [ 0, 13 ],
-      "id_str" : "15390381",
-      "id" : 15390381
+      "id_str" : "3042578826",
+      "id" : 3042578826
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3836,7 +3790,7 @@ Grailbird.data.tweets_2011_01 =
   "id" : 28330082418294785,
   "in_reply_to_status_id" : 28324973802160128,
   "created_at" : "2011-01-21 05:56:32 +0000",
-  "in_reply_to_screen_name" : "monkeytypist",
+  "in_reply_to_screen_name" : "chrisjoregan",
   "in_reply_to_user_id_str" : "15390381",
   "user" : {
     "name" : "\u05DF\u0E4F\u0E23\u0452",
@@ -3851,7 +3805,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "meemrs 3.1",
+      "name" : "blueberry spicehead ",
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",
@@ -8026,7 +7980,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "meemrs 3.1",
+      "name" : "blueberry spicehead ",
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",

@@ -3468,6 +3468,12 @@ Grailbird.data.tweets_2010_06 =
       "indices" : [ 7, 14 ],
       "id_str" : "8598102",
       "id" : 8598102
+    }, {
+      "name" : "Laura",
+      "screen_name" : "impxox",
+      "indices" : [ 15, 22 ],
+      "id_str" : "24652271",
+      "id" : 24652271
     } ],
     "media" : [ ],
     "hashtags" : [ ],
