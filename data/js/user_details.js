@@ -3,7 +3,7 @@ var user_details =  {
   "screen_name" : "phocks",
   "location" : "New Farm, Queensland",
   "url" : "http:\/\/t.co\/CTgXfSHNij",
-  "full_name" : "\u05DF\u0E4F\u0E23\u0452",
+  "full_name" : "joshua byrd",
   "bio" : "Goodbye, said the fox. Here is my simple secret: One sees clearly only with the heart. Anything essential is invisible to the eyes.",
   "id" : "5703342",
   "created_at" : "2007-05-02 04:02:23 +0000",
