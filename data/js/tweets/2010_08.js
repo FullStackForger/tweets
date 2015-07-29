@@ -7157,7 +7157,11 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "chelseymayg",
       "protected" : false,
       "id_str" : "118619145",
+<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615457281304453121\/wuFPW-In_normal.jpg",
+=======
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/598799542935392256\/bBjCCXIZ_normal.jpg",
+>>>>>>> origin/gh-pages
       "id" : 118619145,
       "verified" : false
     }

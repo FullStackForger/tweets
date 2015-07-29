@@ -4,7 +4,11 @@ var user_details =  {
   "location" : "New Farm, Brisbane",
   "url" : "http:\/\/t.co\/CTgXfSHNij",
   "full_name" : "Joshua",
+<<<<<<< HEAD
   "bio" : "Code-pusher \/ One of the 128 thousand original guitarists in @VelociraptorAU",
+=======
+  "bio" : "Goodbye, said the fox. Here is my simple secret: One sees clearly only with the heart. Anything essential is invisible to the eyes.",
+>>>>>>> origin/gh-pages
   "id" : "5703342",
   "created_at" : "2007-05-02 04:02:23 +0000",
   "display_url" : "phocks.github.io\/tweets"

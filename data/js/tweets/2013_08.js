@@ -2830,7 +2830,11 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "ameliadowd",
       "protected" : false,
       "id_str" : "15056870",
+<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/604068295013085184\/Ct4wAR3m_normal.jpg",
+=======
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/587072175556837376\/QK8lbAhC_normal.jpg",
+>>>>>>> origin/gh-pages
       "id" : 15056870,
       "verified" : false
     }

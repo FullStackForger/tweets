@@ -3997,7 +3997,11 @@ Grailbird.data.tweets_2010_07 =
   "text" : "@itselise i have no patience for lactose, and i will not stand for it! :)",
   "id" : 19000997345,
   "created_at" : "2010-07-20 00:00:00 +0000",
+<<<<<<< HEAD
   "in_reply_to_screen_name" : "35173__",
+=======
+  "in_reply_to_screen_name" : "de_act_iv_ated",
+>>>>>>> origin/gh-pages
   "in_reply_to_user_id_str" : "25955429",
   "user" : {
     "name" : "Joshua",

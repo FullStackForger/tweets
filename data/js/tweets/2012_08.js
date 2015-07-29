@@ -2634,7 +2634,11 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "ameliadowd",
       "protected" : false,
       "id_str" : "15056870",
+<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/604068295013085184\/Ct4wAR3m_normal.jpg",
+=======
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/587072175556837376\/QK8lbAhC_normal.jpg",
+>>>>>>> origin/gh-pages
       "id" : 15056870,
       "verified" : false
     }
@@ -2948,7 +2952,11 @@ Grailbird.data.tweets_2012_08 =
       "id_str" : "117199326",
       "id" : 117199326
     }, {
+<<<<<<< HEAD
       "name" : "Cassandra Candimere",
+=======
+      "name" : "Flower of Kittens",
+>>>>>>> origin/gh-pages
       "screen_name" : "KittenFlower",
       "indices" : [ 26, 39 ],
       "id_str" : "40785142",

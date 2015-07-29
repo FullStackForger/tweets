@@ -3879,7 +3879,11 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "dallasashton",
       "protected" : false,
       "id_str" : "155795127",
+<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/620109646649384960\/0PAesuH9_normal.jpg",
+=======
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/593527018307719168\/46lQn19M_normal.jpg",
+>>>>>>> origin/gh-pages
       "id" : 155795127,
       "verified" : false
     }
@@ -5281,7 +5285,11 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+<<<<<<< HEAD
       "name" : "senator valentine",
+=======
+      "name" : "Lulu",
+>>>>>>> origin/gh-pages
       "screen_name" : "LuluCalrissian",
       "indices" : [ 3, 18 ],
       "id_str" : "35407832",
@@ -5368,11 +5376,19 @@ Grailbird.data.tweets_2014_07 =
     "id" : 487794809759748097,
     "created_at" : "2014-07-12 03:05:20 +0000",
     "user" : {
+<<<<<<< HEAD
       "name" : "senator valentine",
       "screen_name" : "LuluCalrissian",
       "protected" : false,
       "id_str" : "35407832",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625243047199047681\/POP5G03V_normal.jpg",
+=======
+      "name" : "Lulu",
+      "screen_name" : "LuluCalrissian",
+      "protected" : false,
+      "id_str" : "35407832",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602007301575155712\/94StwsdF_normal.jpg",
+>>>>>>> origin/gh-pages
       "id" : 35407832,
       "verified" : false
     }
@@ -8450,7 +8466,11 @@ Grailbird.data.tweets_2014_07 =
   "id" : 484197718122692608,
   "in_reply_to_status_id" : 484195606257102849,
   "created_at" : "2014-07-02 04:51:46 +0000",
+<<<<<<< HEAD
   "in_reply_to_screen_name" : "guerresoliel",
+=======
+  "in_reply_to_screen_name" : "GalactiCate",
+>>>>>>> origin/gh-pages
   "in_reply_to_user_id_str" : "523142305",
   "user" : {
     "name" : "Joshua",

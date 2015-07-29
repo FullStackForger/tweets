@@ -1467,7 +1467,11 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+<<<<<<< HEAD
       "name" : "Nick Perkins ",
+=======
+      "name" : "Nick Perkins",
+>>>>>>> origin/gh-pages
       "screen_name" : "Nicholosophy",
       "indices" : [ 0, 13 ],
       "id_str" : "14721310",
@@ -4686,7 +4690,11 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+<<<<<<< HEAD
       "name" : "bigtime adult lady",
+=======
+      "name" : "captain legbeard",
+>>>>>>> origin/gh-pages
       "screen_name" : "definatalie",
       "indices" : [ 3, 15 ],
       "id_str" : "11791522",
@@ -4713,7 +4721,11 @@ Grailbird.data.tweets_2010_12 =
     "id" : 15660554651701248,
     "created_at" : "2010-12-17 06:52:21 +0000",
     "user" : {
+<<<<<<< HEAD
       "name" : "bigtime adult lady",
+=======
+      "name" : "captain legbeard",
+>>>>>>> origin/gh-pages
       "screen_name" : "definatalie",
       "protected" : false,
       "id_str" : "11791522",
@@ -6384,7 +6396,11 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "ameliadowd",
       "protected" : false,
       "id_str" : "15056870",
+<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/604068295013085184\/Ct4wAR3m_normal.jpg",
+=======
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/587072175556837376\/QK8lbAhC_normal.jpg",
+>>>>>>> origin/gh-pages
       "id" : 15056870,
       "verified" : false
     }
@@ -7203,7 +7219,11 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "pressdarling",
       "protected" : false,
       "id_str" : "14709131",
+<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626276175954903040\/lajE6DqJ_normal.png",
+=======
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586510076837400577\/EQ0Gk53__normal.jpg",
+>>>>>>> origin/gh-pages
       "id" : 14709131,
       "verified" : false
     }

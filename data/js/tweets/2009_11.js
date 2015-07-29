@@ -1526,7 +1526,11 @@ Grailbird.data.tweets_2009_11 =
       "id_str" : "15056870",
       "id" : 15056870
     }, {
+<<<<<<< HEAD
       "name" : "bigtime adult lady",
+=======
+      "name" : "captain legbeard",
+>>>>>>> origin/gh-pages
       "screen_name" : "definatalie",
       "indices" : [ 52, 64 ],
       "id_str" : "11791522",
@@ -2418,7 +2422,11 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+<<<<<<< HEAD
       "name" : "bigtime adult lady",
+=======
+      "name" : "captain legbeard",
+>>>>>>> origin/gh-pages
       "screen_name" : "definatalie",
       "indices" : [ 3, 15 ],
       "id_str" : "11791522",
@@ -2457,7 +2465,11 @@ Grailbird.data.tweets_2009_11 =
     "id" : 5909235498,
     "created_at" : "2009-11-21 03:16:55 +0000",
     "user" : {
+<<<<<<< HEAD
       "name" : "bigtime adult lady",
+=======
+      "name" : "captain legbeard",
+>>>>>>> origin/gh-pages
       "screen_name" : "definatalie",
       "protected" : false,
       "id_str" : "11791522",

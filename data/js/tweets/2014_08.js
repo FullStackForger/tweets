@@ -702,7 +702,11 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "pressdarling",
       "protected" : false,
       "id_str" : "14709131",
+<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626276175954903040\/lajE6DqJ_normal.png",
+=======
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586510076837400577\/EQ0Gk53__normal.jpg",
+>>>>>>> origin/gh-pages
       "id" : 14709131,
       "verified" : false
     }
@@ -1111,7 +1115,11 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "pressdarling",
       "protected" : false,
       "id_str" : "14709131",
+<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626276175954903040\/lajE6DqJ_normal.png",
+=======
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586510076837400577\/EQ0Gk53__normal.jpg",
+>>>>>>> origin/gh-pages
       "id" : 14709131,
       "verified" : false
     }
@@ -4315,7 +4323,11 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "331064883",
       "id" : 331064883
     }, {
+<<<<<<< HEAD
       "name" : "Josh",
+=======
+      "name" : "Joshua",
+>>>>>>> origin/gh-pages
       "screen_name" : "phocks",
       "indices" : [ 14, 21 ],
       "id_str" : "5703342",
@@ -5438,7 +5450,11 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "myauralfixation",
       "protected" : false,
       "id_str" : "19749614",
+<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617536475547045888\/kX1ekOB0_normal.jpg",
+=======
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/595925930566004739\/hyIMVrde_normal.jpg",
+>>>>>>> origin/gh-pages
       "id" : 19749614,
       "verified" : false
     }
@@ -7926,7 +7942,11 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+<<<<<<< HEAD
       "name" : "Cassandra Candimere",
+=======
+      "name" : "Flower of Kittens",
+>>>>>>> origin/gh-pages
       "screen_name" : "KittenFlower",
       "indices" : [ 3, 16 ],
       "id_str" : "40785142",
@@ -7970,11 +7990,19 @@ Grailbird.data.tweets_2014_08 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
+<<<<<<< HEAD
       "name" : "Cassandra Candimere",
       "screen_name" : "KittenFlower",
       "protected" : false,
       "id_str" : "40785142",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617274673462534144\/f2I2WlcG_normal.jpg",
+=======
+      "name" : "Flower of Kittens",
+      "screen_name" : "KittenFlower",
+      "protected" : false,
+      "id_str" : "40785142",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602083163469283331\/D7g0Mhia_normal.jpg",
+>>>>>>> origin/gh-pages
       "id" : 40785142,
       "verified" : false
     }
@@ -10470,7 +10498,11 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+<<<<<<< HEAD
       "name" : "Word Think BluntArt ",
+=======
+      "name" : "Mr Average Art ",
+>>>>>>> origin/gh-pages
       "screen_name" : "ERN_Malleyscrub",
       "indices" : [ 0, 16 ],
       "id_str" : "22607317",

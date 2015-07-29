@@ -634,7 +634,11 @@ Grailbird.data.tweets_2009_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+<<<<<<< HEAD
       "name" : "bigtime adult lady",
+=======
+      "name" : "captain legbeard",
+>>>>>>> origin/gh-pages
       "screen_name" : "definatalie",
       "indices" : [ 0, 12 ],
       "id_str" : "11791522",

@@ -890,7 +890,11 @@ Grailbird.data.tweets_2008_10 =
       "id_str" : "6989",
       "id" : 6989
     }, {
+<<<<<<< HEAD
       "name" : "Cory",
+=======
+      "name" : "Cary",
+>>>>>>> origin/gh-pages
       "screen_name" : "barrysaunders",
       "indices" : [ 12, 26 ],
       "id_str" : "19630784",

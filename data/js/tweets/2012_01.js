@@ -64,7 +64,11 @@ Grailbird.data.tweets_2012_01 =
       "id_str" : "13238382",
       "id" : 13238382
     }, {
+<<<<<<< HEAD
       "name" : "welp, here's Melp",
+=======
+      "name" : "I'M VERY THERMAL",
+>>>>>>> origin/gh-pages
       "screen_name" : "memily",
       "indices" : [ 10, 17 ],
       "id_str" : "5949072",

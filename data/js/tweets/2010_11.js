@@ -315,7 +315,11 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "759841",
       "id" : 759841
     }, {
+<<<<<<< HEAD
       "name" : "Nick Perkins ",
+=======
+      "name" : "Nick Perkins",
+>>>>>>> origin/gh-pages
       "screen_name" : "Nicholosophy",
       "indices" : [ 16, 29 ],
       "id_str" : "14721310",
@@ -1936,7 +1940,11 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "ameliadowd",
       "protected" : false,
       "id_str" : "15056870",
+<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/604068295013085184\/Ct4wAR3m_normal.jpg",
+=======
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/587072175556837376\/QK8lbAhC_normal.jpg",
+>>>>>>> origin/gh-pages
       "id" : 15056870,
       "verified" : false
     }
@@ -3418,7 +3426,11 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "laurenbeukes",
       "protected" : false,
       "id_str" : "30917386",
+<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/612164332307283972\/no7bwPre_normal.png",
+=======
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/582527508819505153\/RjnTz-5l_normal.jpg",
+>>>>>>> origin/gh-pages
       "id" : 30917386,
       "verified" : true
     }
@@ -5846,7 +5858,11 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "caitaclysmic",
       "protected" : false,
       "id_str" : "18283372",
+<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616185713525022720\/MJnFT_DA_normal.jpg",
+=======
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/589397600966586371\/HiCg23od_normal.jpg",
+>>>>>>> origin/gh-pages
       "id" : 18283372,
       "verified" : false
     }
@@ -6082,7 +6098,11 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+<<<<<<< HEAD
       "name" : "Nick Perkins ",
+=======
+      "name" : "Nick Perkins",
+>>>>>>> origin/gh-pages
       "screen_name" : "Nicholosophy",
       "indices" : [ 0, 13 ],
       "id_str" : "14721310",

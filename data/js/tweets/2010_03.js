@@ -210,7 +210,11 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+<<<<<<< HEAD
       "name" : "welp, here's Melp",
+=======
+      "name" : "I'M VERY THERMAL",
+>>>>>>> origin/gh-pages
       "screen_name" : "memily",
       "indices" : [ 14, 21 ],
       "id_str" : "5949072",
@@ -746,7 +750,11 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+<<<<<<< HEAD
       "name" : "welp, here's Melp",
+=======
+      "name" : "I'M VERY THERMAL",
+>>>>>>> origin/gh-pages
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",
@@ -5867,7 +5875,11 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+<<<<<<< HEAD
       "name" : "Chrystal Chandelier",
+=======
+      "name" : "richard cheese",
+>>>>>>> origin/gh-pages
       "screen_name" : "Amb0b",
       "indices" : [ 3, 9 ],
       "id_str" : "26177951",
@@ -5894,11 +5906,19 @@ Grailbird.data.tweets_2010_03 =
     "id" : 10342541174,
     "created_at" : "2010-03-11 22:29:31 +0000",
     "user" : {
+<<<<<<< HEAD
       "name" : "Chrystal Chandelier",
       "screen_name" : "Amb0b",
       "protected" : false,
       "id_str" : "26177951",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/619081313115484160\/LupzCJbR_normal.jpg",
+=======
+      "name" : "richard cheese",
+      "screen_name" : "Amb0b",
+      "protected" : false,
+      "id_str" : "26177951",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/592604679881629696\/NYvEsyrG_normal.jpg",
+>>>>>>> origin/gh-pages
       "id" : 26177951,
       "verified" : false
     }

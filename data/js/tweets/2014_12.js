@@ -437,7 +437,11 @@ Grailbird.data.tweets_2014_12 =
       "id_str" : "998320280",
       "id" : 998320280
     }, {
+<<<<<<< HEAD
       "name" : "Big Daddy Katsu",
+=======
+      "name" : "Katsu Bush Plum",
+>>>>>>> origin/gh-pages
       "screen_name" : "TeddyLandy",
       "indices" : [ 36, 47 ],
       "id_str" : "299646877",
@@ -466,7 +470,11 @@ Grailbird.data.tweets_2014_12 =
         "id_str" : "998320280",
         "id" : 998320280
       }, {
+<<<<<<< HEAD
         "name" : "Big Daddy Katsu",
+=======
+        "name" : "Katsu Bush Plum",
+>>>>>>> origin/gh-pages
         "screen_name" : "TeddyLandy",
         "indices" : [ 17, 28 ],
         "id_str" : "299646877",
@@ -523,7 +531,11 @@ Grailbird.data.tweets_2014_12 =
       "id_str" : "359846371",
       "id" : 359846371
     }, {
+<<<<<<< HEAD
       "name" : "Big Daddy Katsu",
+=======
+      "name" : "Katsu Bull Shark",
+>>>>>>> origin/gh-pages
       "screen_name" : "TeddyLandy",
       "indices" : [ 102, 113 ],
       "id_str" : "299646877",
@@ -579,7 +591,11 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+<<<<<<< HEAD
       "name" : "EminemFrantix",
+=======
+      "name" : "Music&Movies",
+>>>>>>> origin/gh-pages
       "screen_name" : "MoviesAndMusic1",
       "indices" : [ 0, 16 ],
       "id_str" : "3153892616",
@@ -818,7 +834,11 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+<<<<<<< HEAD
       "name" : "EminemFrantix",
+=======
+      "name" : "Music&Movies",
+>>>>>>> origin/gh-pages
       "screen_name" : "MoviesAndMusic1",
       "indices" : [ 0, 16 ],
       "id_str" : "3153892616",
@@ -1369,7 +1389,11 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+<<<<<<< HEAD
       "name" : "Milly",
+=======
+      "name" : "milly",
+>>>>>>> origin/gh-pages
       "screen_name" : "EmiliaMontague",
       "indices" : [ 0, 15 ],
       "id_str" : "380179637",
@@ -1497,7 +1521,11 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+<<<<<<< HEAD
       "name" : "Anthony Lee (1D-Dad)",
+=======
+      "name" : "Onedirection Dad 5\/4",
+>>>>>>> origin/gh-pages
       "screen_name" : "AnthonyLee59",
       "indices" : [ 1, 14 ],
       "id_str" : "352338496",
@@ -1700,7 +1728,11 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+<<<<<<< HEAD
       "name" : "Milly",
+=======
+      "name" : "milly",
+>>>>>>> origin/gh-pages
       "screen_name" : "EmiliaMontague",
       "indices" : [ 0, 15 ],
       "id_str" : "380179637",
@@ -1818,7 +1850,11 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+<<<<<<< HEAD
       "name" : "Cassandra Candimere",
+=======
+      "name" : "Flower of Kittens",
+>>>>>>> origin/gh-pages
       "screen_name" : "KittenFlower",
       "indices" : [ 12, 25 ],
       "id_str" : "40785142",
@@ -1904,7 +1940,11 @@ Grailbird.data.tweets_2014_12 =
       "id_str" : "14709131",
       "id" : 14709131
     }, {
+<<<<<<< HEAD
       "name" : "Josh",
+=======
+      "name" : "Joshua",
+>>>>>>> origin/gh-pages
       "screen_name" : "phocks",
       "indices" : [ 16, 23 ],
       "id_str" : "5703342",
@@ -2274,7 +2314,11 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+<<<<<<< HEAD
       "name" : "Big Daddy Katsu",
+=======
+      "name" : "Katsu Bush Plum",
+>>>>>>> origin/gh-pages
       "screen_name" : "TeddyLandy",
       "indices" : [ 1, 12 ],
       "id_str" : "299646877",

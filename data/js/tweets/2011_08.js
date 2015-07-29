@@ -664,7 +664,11 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+<<<<<<< HEAD
       "name" : "Kronzle Underwang",
+=======
+      "name" : "Myron Knobloch",
+>>>>>>> origin/gh-pages
       "screen_name" : "gilfer",
       "indices" : [ 0, 7 ],
       "id_str" : "6024412",
@@ -3204,7 +3208,11 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+<<<<<<< HEAD
       "name" : "welp, here's Melp",
+=======
+      "name" : "I'M VERY THERMAL",
+>>>>>>> origin/gh-pages
       "screen_name" : "memily",
       "indices" : [ 3, 10 ],
       "id_str" : "5949072",
@@ -3231,7 +3239,11 @@ Grailbird.data.tweets_2011_08 =
     "id" : 106270171152400384,
     "created_at" : "2011-08-24 07:42:37 +0000",
     "user" : {
+<<<<<<< HEAD
       "name" : "welp, here's Melp",
+=======
+      "name" : "I'M VERY THERMAL",
+>>>>>>> origin/gh-pages
       "screen_name" : "memily",
       "protected" : false,
       "id_str" : "5949072",
@@ -9280,7 +9292,11 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "helveticade",
       "protected" : false,
       "id_str" : "14111299",
+<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/612780524696903680\/WBEGQeAM_normal.jpg",
+=======
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/595427851782004737\/t5kyoQ-F_normal.png",
+>>>>>>> origin/gh-pages
       "id" : 14111299,
       "verified" : false
     }

@@ -3254,7 +3254,11 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+<<<<<<< HEAD
       "name" : "Kronzle Underwang",
+=======
+      "name" : "Myron Knobloch",
+>>>>>>> origin/gh-pages
       "screen_name" : "gilfer",
       "indices" : [ 1, 8 ],
       "id_str" : "6024412",
@@ -5033,7 +5037,11 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "pressdarling",
       "protected" : false,
       "id_str" : "14709131",
+<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626276175954903040\/lajE6DqJ_normal.png",
+=======
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586510076837400577\/EQ0Gk53__normal.jpg",
+>>>>>>> origin/gh-pages
       "id" : 14709131,
       "verified" : false
     }
