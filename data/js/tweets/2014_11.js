@@ -2390,11 +2390,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "SwiftOnSecurity",
       "protected" : false,
       "id_str" : "2436389418",
-<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605416624674373633\/O11iO7oy_normal.jpg",
-=======
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602859929498624001\/P-SnwlTA_normal.png",
->>>>>>> origin/gh-pages
       "id" : 2436389418,
       "verified" : false
     }
@@ -3201,11 +3197,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "pressdarling",
       "protected" : false,
       "id_str" : "14709131",
-<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626276175954903040\/lajE6DqJ_normal.png",
-=======
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586510076837400577\/EQ0Gk53__normal.jpg",
->>>>>>> origin/gh-pages
       "id" : 14709131,
       "verified" : false
     }
@@ -4112,120 +4104,6 @@ Grailbird.data.tweets_2014_11 =
     "protected" : false,
     "id_str" : "5703342",
     "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/600880367512334336\/LzayBoCI_normal.jpg",
-<<<<<<< HEAD
-=======
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Cade",
-      "screen_name" : "helveticade",
-      "indices" : [ 3, 15 ],
-      "id_str" : "14111299",
-      "id" : 14111299
-    } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/michaelhallida4\/status\/533756793223012352\/photo\/1",
-      "indices" : [ 41, 63 ],
-      "url" : "http:\/\/t.co\/1tIBqtrWqJ",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/B2hI-VHCIAAqrzo.jpg",
-      "id_str" : "533756791499137024",
-      "id" : 533756791499137024,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B2hI-VHCIAAqrzo.jpg",
-      "sizes" : [ {
-        "h" : 240,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 531,
-        "resize" : "fit",
-        "w" : 750
-      }, {
-        "h" : 531,
-        "resize" : "fit",
-        "w" : 750
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 424,
-        "resize" : "fit",
-        "w" : 600
-      } ],
-      "display_url" : "pic.twitter.com\/1tIBqtrWqJ"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "533873149192839169",
-  "text" : "RT @helveticade: Leunig on globalisation http:\/\/t.co\/1tIBqtrWqJ",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/michaelhallida4\/status\/533756793223012352\/photo\/1",
-        "indices" : [ 24, 46 ],
-        "url" : "http:\/\/t.co\/1tIBqtrWqJ",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/B2hI-VHCIAAqrzo.jpg",
-        "id_str" : "533756791499137024",
-        "id" : 533756791499137024,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B2hI-VHCIAAqrzo.jpg",
-        "sizes" : [ {
-          "h" : 240,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 531,
-          "resize" : "fit",
-          "w" : 750
-        }, {
-          "h" : 531,
-          "resize" : "fit",
-          "w" : 750
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 424,
-          "resize" : "fit",
-          "w" : 600
-        } ],
-        "display_url" : "pic.twitter.com\/1tIBqtrWqJ"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "533832883417272320",
-    "text" : "Leunig on globalisation http:\/\/t.co\/1tIBqtrWqJ",
-    "id" : 533832883417272320,
-    "created_at" : "2014-11-16 04:04:12 +0000",
-    "user" : {
-      "name" : "Cade",
-      "screen_name" : "helveticade",
-      "protected" : false,
-      "id_str" : "14111299",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/595427851782004737\/t5kyoQ-F_normal.png",
-      "id" : 14111299,
-      "verified" : false
-    }
-  },
-  "id" : 533873149192839169,
-  "created_at" : "2014-11-16 06:44:12 +0000",
-  "user" : {
-    "name" : "Joshua",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/600880367512334336\/LzayBoCI_normal.jpg",
->>>>>>> origin/gh-pages
     "id" : 5703342,
     "verified" : false
   }
@@ -6326,11 +6204,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "worstbloke",
       "protected" : false,
       "id_str" : "1644866557",
-<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/608774611665195008\/NBw7A3qr_normal.jpg",
-=======
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/596455235440148480\/Edq1iAph_normal.jpg",
->>>>>>> origin/gh-pages
       "id" : 1644866557,
       "verified" : false
     }
@@ -8400,11 +8274,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-<<<<<<< HEAD
       "name" : "Cassandra Candimere",
-=======
-      "name" : "Flower of Kittens",
->>>>>>> origin/gh-pages
       "screen_name" : "KittenFlower",
       "indices" : [ 1, 14 ],
       "id_str" : "40785142",
@@ -9367,11 +9237,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "myauralfixation",
       "protected" : false,
       "id_str" : "19749614",
-<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617536475547045888\/kX1ekOB0_normal.jpg",
-=======
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/595925930566004739\/hyIMVrde_normal.jpg",
->>>>>>> origin/gh-pages
       "id" : 19749614,
       "verified" : false
     }

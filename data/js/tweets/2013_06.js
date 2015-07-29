@@ -151,11 +151,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "23698824",
       "id" : 23698824
     }, {
-<<<<<<< HEAD
       "name" : "Josh",
-=======
-      "name" : "Joshua",
->>>>>>> origin/gh-pages
       "screen_name" : "phocks",
       "indices" : [ 45, 52 ],
       "id_str" : "5703342",
@@ -2338,11 +2334,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "12196972",
       "id" : 12196972
     }, {
-<<<<<<< HEAD
       "name" : "welp, here's Melp",
-=======
-      "name" : "I'M VERY THERMAL",
->>>>>>> origin/gh-pages
       "screen_name" : "memily",
       "indices" : [ 26, 33 ],
       "id_str" : "5949072",

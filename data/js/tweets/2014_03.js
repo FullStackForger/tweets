@@ -4130,11 +4130,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-<<<<<<< HEAD
       "name" : "Cassandra Candimere",
-=======
-      "name" : "Flower of Kittens",
->>>>>>> origin/gh-pages
       "screen_name" : "KittenFlower",
       "indices" : [ 0, 13 ],
       "id_str" : "40785142",
@@ -4378,11 +4374,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "ameliadowd",
       "protected" : false,
       "id_str" : "15056870",
-<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/604068295013085184\/Ct4wAR3m_normal.jpg",
-=======
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/587072175556837376\/QK8lbAhC_normal.jpg",
->>>>>>> origin/gh-pages
       "id" : 15056870,
       "verified" : false
     }

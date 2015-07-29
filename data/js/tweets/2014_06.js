@@ -1054,11 +1054,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "emmsyish",
       "protected" : false,
       "id_str" : "16217140",
-<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/624152514921795584\/yqIR6w9V_normal.jpg",
-=======
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/603402696364666882\/o7N9NG45_normal.jpg",
->>>>>>> origin/gh-pages
       "id" : 16217140,
       "verified" : false
     }
@@ -1246,11 +1242,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-<<<<<<< HEAD
       "name" : "welp, here's Melp",
-=======
-      "name" : "I'M VERY THERMAL",
->>>>>>> origin/gh-pages
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",
@@ -3088,11 +3080,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-<<<<<<< HEAD
       "name" : "welp, here's Melp",
-=======
-      "name" : "I'M VERY THERMAL",
->>>>>>> origin/gh-pages
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",
@@ -3290,11 +3278,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-<<<<<<< HEAD
       "name" : "Cassandra Candimere",
-=======
-      "name" : "Flower of Kittens",
->>>>>>> origin/gh-pages
       "screen_name" : "KittenFlower",
       "indices" : [ 0, 13 ],
       "id_str" : "40785142",
@@ -3643,11 +3627,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-<<<<<<< HEAD
       "name" : "Cassandra Candimere",
-=======
-      "name" : "Flower of Kittens",
->>>>>>> origin/gh-pages
       "screen_name" : "KittenFlower",
       "indices" : [ 0, 13 ],
       "id_str" : "40785142",
@@ -3961,11 +3941,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-<<<<<<< HEAD
       "name" : "welp, here's Melp",
-=======
-      "name" : "I'M VERY THERMAL",
->>>>>>> origin/gh-pages
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",
@@ -4023,11 +3999,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-<<<<<<< HEAD
       "name" : "welp, here's Melp",
-=======
-      "name" : "I'M VERY THERMAL",
->>>>>>> origin/gh-pages
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",
@@ -7981,11 +7953,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "28301477",
       "id" : 28301477
     }, {
-<<<<<<< HEAD
       "name" : "Josh",
-=======
-      "name" : "Joshua",
->>>>>>> origin/gh-pages
       "screen_name" : "phocks",
       "indices" : [ 79, 86 ],
       "id_str" : "5703342",
@@ -8073,11 +8041,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-<<<<<<< HEAD
       "name" : "welp, here's Melp",
-=======
-      "name" : "I'M VERY THERMAL",
->>>>>>> origin/gh-pages
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",

@@ -432,11 +432,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "jdeplater",
       "protected" : false,
       "id_str" : "15668582",
-<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/604164299062292480\/HqrhEeaC_normal.jpg",
-=======
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/600514683955642369\/cgFr4YWn_normal.jpg",
->>>>>>> origin/gh-pages
       "id" : 15668582,
       "verified" : false
     }
@@ -1218,11 +1214,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "BreeMateljan",
       "protected" : false,
       "id_str" : "5788332",
-<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/624932290137755648\/szlHiOmv_normal.jpg",
-=======
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/595213564958216193\/Ew3ft3Gj_normal.jpg",
->>>>>>> origin/gh-pages
       "id" : 5788332,
       "verified" : false
     }
@@ -2418,11 +2410,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "SwiftOnSecurity",
       "protected" : false,
       "id_str" : "2436389418",
-<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605416624674373633\/O11iO7oy_normal.jpg",
-=======
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602859929498624001\/P-SnwlTA_normal.png",
->>>>>>> origin/gh-pages
       "id" : 2436389418,
       "verified" : false
     }
@@ -6145,11 +6133,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "pressdarling",
       "protected" : false,
       "id_str" : "14709131",
-<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626276175954903040\/lajE6DqJ_normal.png",
-=======
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586510076837400577\/EQ0Gk53__normal.jpg",
->>>>>>> origin/gh-pages
       "id" : 14709131,
       "verified" : false
     }
@@ -7623,11 +7607,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "15424441",
       "id" : 15424441
     }, {
-<<<<<<< HEAD
       "name" : "Josh",
-=======
-      "name" : "Joshua",
->>>>>>> origin/gh-pages
       "screen_name" : "phocks",
       "indices" : [ 15, 22 ],
       "id_str" : "5703342",
@@ -7644,11 +7624,7 @@ Grailbird.data.tweets_2014_10 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-<<<<<<< HEAD
         "name" : "Josh",
-=======
-        "name" : "Joshua",
->>>>>>> origin/gh-pages
         "screen_name" : "phocks",
         "indices" : [ 0, 7 ],
         "id_str" : "5703342",

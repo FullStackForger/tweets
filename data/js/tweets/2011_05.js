@@ -815,11 +815,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-<<<<<<< HEAD
       "name" : "Status: Probable",
-=======
-      "name" : "Yep, Yep, Yep",
->>>>>>> origin/gh-pages
       "screen_name" : "franksting",
       "indices" : [ 0, 11 ],
       "id_str" : "13807132",
@@ -3829,11 +3825,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-<<<<<<< HEAD
       "name" : "bigtime adult lady",
-=======
-      "name" : "captain legbeard",
->>>>>>> origin/gh-pages
       "screen_name" : "definatalie",
       "indices" : [ 3, 15 ],
       "id_str" : "11791522",
@@ -3860,11 +3852,7 @@ Grailbird.data.tweets_2011_05 =
     "id" : 71816697287409664,
     "created_at" : "2011-05-21 05:56:49 +0000",
     "user" : {
-<<<<<<< HEAD
       "name" : "bigtime adult lady",
-=======
-      "name" : "captain legbeard",
->>>>>>> origin/gh-pages
       "screen_name" : "definatalie",
       "protected" : false,
       "id_str" : "11791522",
@@ -7797,11 +7785,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-<<<<<<< HEAD
       "name" : "welp, here's Melp",
-=======
-      "name" : "I'M VERY THERMAL",
->>>>>>> origin/gh-pages
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",

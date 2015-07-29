@@ -1,5 +1,4 @@
 var tweet_index =  [ {
-<<<<<<< HEAD
   "file_name" : "data\/js\/tweets\/2015_07.js",
   "year" : 2015,
   "var_name" : "tweets_2015_07",
@@ -16,12 +15,6 @@ var tweet_index =  [ {
   "year" : 2015,
   "var_name" : "tweets_2015_05",
   "tweet_count" : 369,
-=======
-  "file_name" : "data\/js\/tweets\/2015_05.js",
-  "year" : 2015,
-  "var_name" : "tweets_2015_05",
-  "tweet_count" : 341,
->>>>>>> origin/gh-pages
   "month" : 5
 }, {
   "file_name" : "data\/js\/tweets\/2015_04.js",
@@ -267,7 +260,7 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2011_12.js",
   "year" : 2011,
   "var_name" : "tweets_2011_12",
-  "tweet_count" : 260,
+  "tweet_count" : 261,
   "month" : 12
 }, {
   "file_name" : "data\/js\/tweets\/2011_11.js",
@@ -333,7 +326,7 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2011_01.js",
   "year" : 2011,
   "var_name" : "tweets_2011_01",
-  "tweet_count" : 365,
+  "tweet_count" : 366,
   "month" : 1
 }, {
   "file_name" : "data\/js\/tweets\/2010_12.js",

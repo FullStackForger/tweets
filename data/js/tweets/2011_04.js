@@ -6165,11 +6165,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "JacobLeigh",
       "protected" : false,
       "id_str" : "20220718",
-<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617808424034807812\/7CaA88eL_normal.jpg",
-=======
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/588839183076044800\/wIS0t8xu_normal.jpg",
->>>>>>> origin/gh-pages
       "id" : 20220718,
       "verified" : false
     }
@@ -7090,11 +7086,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "melonkarly",
       "protected" : true,
       "id_str" : "22601607",
-<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/620455999200034816\/zta7qhLw_normal.jpg",
-=======
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/585620223396544512\/-YoTPl-F_normal.jpg",
->>>>>>> origin/gh-pages
       "id" : 22601607,
       "verified" : false
     }

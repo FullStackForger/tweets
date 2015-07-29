@@ -1996,11 +1996,7 @@ Grailbird.data.tweets_2008_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-<<<<<<< HEAD
       "name" : "Cory",
-=======
-      "name" : "Cary",
->>>>>>> origin/gh-pages
       "screen_name" : "barrysaunders",
       "indices" : [ 27, 41 ],
       "id_str" : "19630784",

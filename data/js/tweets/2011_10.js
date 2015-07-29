@@ -6273,11 +6273,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-<<<<<<< HEAD
       "name" : "Evil Pixie Scientist",
-=======
-      "name" : "Cellular De Ville",
->>>>>>> origin/gh-pages
       "screen_name" : "upulie",
       "indices" : [ 0, 7 ],
       "id_str" : "187518287",

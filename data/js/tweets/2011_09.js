@@ -275,11 +275,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-<<<<<<< HEAD
       "name" : "welp, here's Melp",
-=======
-      "name" : "I'M VERY THERMAL",
->>>>>>> origin/gh-pages
       "screen_name" : "memily",
       "indices" : [ 42, 49 ],
       "id_str" : "5949072",
@@ -307,11 +303,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-<<<<<<< HEAD
       "name" : "welp, here's Melp",
-=======
-      "name" : "I'M VERY THERMAL",
->>>>>>> origin/gh-pages
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",
@@ -7297,11 +7289,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-<<<<<<< HEAD
       "name" : "welp, here's Melp",
-=======
-      "name" : "I'M VERY THERMAL",
->>>>>>> origin/gh-pages
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",
@@ -9710,11 +9698,7 @@ Grailbird.data.tweets_2011_09 =
       "id_str" : "326518931",
       "id" : 326518931
     }, {
-<<<<<<< HEAD
       "name" : "pastry",
-=======
-      "name" : "safe space",
->>>>>>> origin/gh-pages
       "screen_name" : "ninedorff",
       "indices" : [ 85, 95 ],
       "id_str" : "79601839",
@@ -9752,11 +9736,7 @@ Grailbird.data.tweets_2011_09 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-<<<<<<< HEAD
         "name" : "pastry",
-=======
-        "name" : "safe space",
->>>>>>> origin/gh-pages
         "screen_name" : "ninedorff",
         "indices" : [ 67, 77 ],
         "id_str" : "79601839",
@@ -9797,11 +9777,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "irrellievant",
       "protected" : false,
       "id_str" : "326518931",
-<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606087531952619520\/QPGPC-CF_normal.jpg",
-=======
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/582394319232892928\/wxYuv5s9_normal.jpg",
->>>>>>> origin/gh-pages
       "id" : 326518931,
       "verified" : false
     }

@@ -1275,11 +1275,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-<<<<<<< HEAD
       "name" : "Kronzle Underwang",
-=======
-      "name" : "Myron Knobloch",
->>>>>>> origin/gh-pages
       "screen_name" : "gilfer",
       "indices" : [ 26, 33 ],
       "id_str" : "6024412",

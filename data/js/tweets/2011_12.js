@@ -2071,7 +2071,6 @@ Grailbird.data.tweets_2011_12 =
     "protected" : false,
     "id_str" : "5703342",
     "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/600880367512334336\/LzayBoCI_normal.jpg",
-<<<<<<< HEAD
     "id" : 5703342,
     "verified" : false
   }
@@ -2138,8 +2137,6 @@ Grailbird.data.tweets_2011_12 =
     "protected" : false,
     "id_str" : "5703342",
     "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/600880367512334336\/LzayBoCI_normal.jpg",
-=======
->>>>>>> origin/gh-pages
     "id" : 5703342,
     "verified" : false
   }

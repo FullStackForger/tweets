@@ -1961,11 +1961,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "twitter",
       "protected" : false,
       "id_str" : "783214",
-<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615680132565504000\/EIpgSD2K_normal.png",
-=======
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/571076061169868800\/2dDdk-Uh_normal.png",
->>>>>>> origin/gh-pages
       "id" : 783214,
       "verified" : true
     }
@@ -6722,11 +6718,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "TheMonicaShow",
       "protected" : false,
       "id_str" : "93123286",
-<<<<<<< HEAD
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617484643168817153\/xwdDIjEa_normal.jpg",
-=======
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602679376946307072\/IN4ycIFG_normal.jpg",
->>>>>>> origin/gh-pages
       "id" : 93123286,
       "verified" : false
     }

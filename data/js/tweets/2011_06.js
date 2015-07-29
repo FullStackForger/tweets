@@ -9486,11 +9486,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "22451405",
       "id" : 22451405
     }, {
-<<<<<<< HEAD
       "name" : "bigtime adult lady",
-=======
-      "name" : "captain legbeard",
->>>>>>> origin/gh-pages
       "screen_name" : "definatalie",
       "indices" : [ 78, 90 ],
       "id_str" : "11791522",
