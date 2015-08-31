@@ -3,8 +3,8 @@ var user_details =  {
   "screen_name" : "phocks",
   "location" : "New Farm, Brisbane",
   "url" : "http:\/\/t.co\/CTgXfSHNij",
-  "full_name" : "Joshua",
-  "bio" : "Goodbye, said the fox. Here is my simple secret: One sees clearly only with the heart. Anything essential is invisible to the eyes.",
+  "full_name" : "Faux Smoulder",
+  "bio" : "Writer of code, copy, & terrible fiction. Startup developer. Low-budget actor. Resurrector of computers. Street fighter for @VelociraptorAU",
   "id" : "5703342",
   "created_at" : "2007-05-02 04:02:23 +0000",
   "display_url" : "phocks.github.io\/tweets"
